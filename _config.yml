@@ -4,7 +4,7 @@ SEOTitle: 秀好米 秀出你的好米 xiuhaomi.com
 header-img: img/post-bg-desk.jpg
 description: "秀好米 好米秀"
 keyword: "秀好米keyword"
-email: a@xiuhaomi.com
+email: <a href="mailto:a@xiuhaomi.com">a@xiuhaomi.com</a>
 url: "http://xiuhaomi.github.io"
 github_repo: "https://github.com/xiuhaomi/xiuhaomi.com.git"
 
