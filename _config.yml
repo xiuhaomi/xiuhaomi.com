@@ -10,7 +10,7 @@ github_repo: "https://github.com/xiuhaomi/xiuhaomi.com.git"
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "联系<a href="mailto:a@xiuhaomi.com">a@xiuhaomi.com</a>免费展示你的米"
+sidebar-about-description: "联系a@xiuhaomi.com免费展示你的米"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
