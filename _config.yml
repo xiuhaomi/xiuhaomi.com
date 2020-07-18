@@ -1,9 +1,9 @@
 # Site settings
-title: 秀好米
+title: 秀好米title
 SEOTitle: 秀好米 xiuhaomi.com
 header-img: img/post-bg-desk.jpg
 description: "米站"
-keyword: "秀好米"
+keyword: "秀好米keyword"
 url: "http://xiuhaomi.github.io"
 github_repo: "https://github.com/xiuhaomi/xiuhaomi.com.git"
 
