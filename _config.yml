@@ -1,15 +1,16 @@
 # Site settings
-title: 秀好米title
+title: 秀好米 好米秀
 SEOTitle: 秀好米 xiuhaomi.com
 header-img: img/post-bg-desk.jpg
 description: "米站"
 keyword: "秀好米keyword"
+email: a@xiuhaomi.com
 url: "http://xiuhaomi.github.io"
 github_repo: "https://github.com/xiuhaomi/xiuhaomi.com.git"
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "普通米农"
+sidebar-about-description: "联系a@xiuhaomi.com免费展示你的米"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
